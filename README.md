@@ -1,7 +1,7 @@
 
 ### Olá! Prazer, nk 👋
 
-![DevNK stats](https://github-readme-stats.vercel.app/api?username=devnkx&show_icons=true&theme=dracula)
+![DevNK stats](https://github-readme-stats.vercel.app/api?username=nkdevz&show_icons=true&theme=dracula)
 
 ### Tecnologias que eu utilizo ☕
 

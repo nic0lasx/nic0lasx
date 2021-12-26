@@ -1,6 +1,9 @@
 
 ### Olá! Prazer, nk 👋
 
+> ##### Back-End Developer
+
+
 ![DevNK stats](https://github-readme-stats.vercel.app/api?username=nkdevz&show_icons=true&theme=dracula)
 
 ### Tecnologias que eu utilizo ☕

@@ -1,5 +1,5 @@
 
-### Olá! Prazer, nk 👋
+### Olá! sou o nk. 👋
 
 > ##### Back-End Developer
 

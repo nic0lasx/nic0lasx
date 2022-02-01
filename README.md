@@ -17,7 +17,7 @@
  <!-- LANGUAGE AND TOOLS SECTION -->
  <div align="center">
 
- ### • Language and Tools
+ ### • Linguagens e Ferramentas
  </div>
  
 <div align="center" valign="top"><br> 

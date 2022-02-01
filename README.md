@@ -1,6 +1,4 @@
-
-
-```<div>
+<div>
   <h1 align="center">Fala dev! Sou o nk.  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"></h1>
 </div>
 
@@ -46,4 +44,4 @@
 
 <!-- I'M USING 'RAFABALLERINI' SNAKE ANIMATION ONLY FOR DESIGN PURPOSE. I'M NOT TRYING TO USE ALL HER COMMITS TO IMPRESS ANYONE -->
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-<!-- END -->```
+<!-- END -->

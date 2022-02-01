@@ -7,7 +7,7 @@
 
 - 📘 Estudante de TI
 - 🛠️ Trabalhando em projetos inovadores
-- <img src="https://cdn.discordapp.com/attachments/774147374217035807/923804952130879528/4323-blurple-verified-bot-developer.png" width="13px" height="13">  Verified  on Discord 
+- <img src="https://cdn.discordapp.com/emojis/920063699694284810.webp?size=96&quality=lossless" width="13px" height="13">  Discord Verified Developer 
 
 <!-- END OF FUN FACTS -->
 

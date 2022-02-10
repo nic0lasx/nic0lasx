@@ -9,6 +9,10 @@
 - CTO: NN-Development
 - Game Lover
 
+### History 📚
+
+I got interested in programming at a very young age, starting as a plugin developer within the Minecraft game. Over time I expanded my horizon to new languages ​​and technologies.
+
 <br>
 </p>
 

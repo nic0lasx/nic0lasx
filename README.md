@@ -16,7 +16,7 @@ Over time I expanded my horizon to new languages ​​and technologies.
 
  <div align="center">
 
- ### 💻 • Technologies, Languages, Frameworks and others
+ ### 💻 • Technologies, Languages and others
  </div>
 
 <br>

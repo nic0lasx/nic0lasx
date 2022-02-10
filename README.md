@@ -6,7 +6,7 @@
 ### Fun Facts 📁
 
 - Javascript Passionate
-- CTO NN Development
+- CTO: NN-Development
 
 <br>
 </p>

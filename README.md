@@ -12,7 +12,7 @@
 
 ### History 📚
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFEFE5&lines=I+got+interested+in+programming+at+a+very+young+age%2C+starting+as+a+plugin+developer+within+the+Minecraft+game.+;Over+time+I+expanded+my+horizon+to+new+languages+%E2%80%8B%E2%80%8Band+technologies.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&lines=I+got+interested+in+programming+at+;a+very+young+age%2C+starting+as+a+;plugin+developer+within+the+;Minecraft+game.+over+time+I+expanded;my+horizon+for+new+languages;and+technologies.)](https://git.io/typing-svg)
 
  <div align="center">
 

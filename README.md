@@ -36,8 +36,9 @@ Over time I expanded my horizon to new languages ​​and technologies.
 
 ### GitHub Status 🛸
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=nkdevz&la)
 ![Nkdevz Status](https://github-readme-stats.vercel.app/api?username=nkdevz&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=nkdevz&la)
+
 <br>
 </p>
 

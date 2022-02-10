@@ -1,4 +1,4 @@
-<h1 align="center">nkdevz 👋</h1>
+<h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&lines=nkdevz)](https://git.io/typing-svg) </h1>
 
 <h5 align="center">Back-End Developer and IT Student</h5>
 <h4 align="center">A back-end developer always looking for innovation!<h4/>

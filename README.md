@@ -7,6 +7,7 @@
 
 - Javascript Passionate
 - CTO: NN-Development
+- Game Lover
 
 <br>
 </p>

@@ -10,10 +10,6 @@
 - Game Lover;
 - Discord Verified Developer.
 
-### History 📚
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&lines=I+got+interested+in+programming+at+;a+very+young+age%2C+starting+as+a+;plugin+developer+within+the+;Minecraft+game.+over+time+I+expanded;my+horizon+for+new+languages;and+technologies.)](https://git.io/typing-svg)
-
  <div align="center">
 
  ### 💻 • Technologies, Languages and others

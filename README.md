@@ -31,8 +31,8 @@
 
 ### GitHub Status 🛸
 
-![Nkdevz Status](https://github-readme-stats.vercel.app/api?username=devnicolasx&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=devnicolasx&la)
+![Nkdevz Status](https://github-readme-stats.vercel.app/api?username=nosanitty&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=nosanitty&la)
 
 <br>
 </p>

@@ -6,7 +6,6 @@
 ### Fun Facts 📁
 
 - Javascript Passionate;
-- CTO: LotusBridge;
 - Game Lover;
 - Discord Verified Developer.
 

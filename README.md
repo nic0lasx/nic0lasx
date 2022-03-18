@@ -8,7 +8,7 @@
 - Javascript Passionate;
 - Game Lover;
 - Discord Verified Developer.
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/695060735264423974)](https://discord.com/users/695060735264423974)
  <div align="center">
 
  ### 💻 • Technologies, Languages and others

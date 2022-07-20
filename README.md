@@ -8,4 +8,4 @@
 
 - 🎲 Game Lover;
 - 💻 IT Student;
-- 🌎🇷 Brazilian.
+- 🌎 Brazilian.

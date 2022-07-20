@@ -12,7 +12,7 @@
 
 ```javascript
 const nicolas = {
-  code: [ JavaScript, TypeScript, CPP, C ],
+  code: [ JavaScript, TypeScript, C, Java ],
   pronouns: "he" | "him"
 }
 ```

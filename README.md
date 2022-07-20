@@ -5,3 +5,7 @@
 <p><em>Back-End Developer at <a href="http://www.skyebot.website">SkyeBot</a>
 
 ### <img src="https://cdn.discordapp.com/emojis/917878438038229022.gif?size=96&quality=lossless" width="30"> About me
+
+- 🎲 Game Lover;
+- 💻 IT Student;
+- 🇧🇷 Brazilian.

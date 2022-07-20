@@ -9,3 +9,10 @@
 - 🎲 Game Lover;
 - 💻 IT Student;
 - 🌎 Brazilian.
+
+```javascript
+const nicolas = {
+  code: [ JavaScript, TypeScript, CPP, C ],
+  pronouns: "he" | "him"
+}
+```
